@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Abdulsalam"
+  given-names: "Ghada"
+  orcid: "https://orcid.org/0000-0003-2774-8898"
+title: "Explainable Heart Disease Prediction Using 
+        Ensemble-Quantum Machine ‎‎‎Learning Approach"
+version: 2.0.0
+date-released: 2022-6-13
+url: "https://github.com/ghada000/Heart_Disease_Prediction_Using_Ensemble-Quantum_ML/tree/main"
